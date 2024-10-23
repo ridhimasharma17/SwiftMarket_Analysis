@@ -1,0 +1,8 @@
+.gitignore
+.env
+test.py
+packages.txt
+test.ipynb
+annualsales-categories.jpeg
+reqirements.txt
+__pycache__/
